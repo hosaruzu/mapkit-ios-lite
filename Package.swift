@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "YandexMapsMobileLite",
     defaultLocalization: "en",
-    platforms: [.iOS("12.0")],
+    platforms: [.iOS("15.0")],
     products: [
         .library(
             name: "YandexMapsMobileLite",
